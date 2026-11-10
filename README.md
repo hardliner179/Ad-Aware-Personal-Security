@@ -208,4 +208,4 @@ This repository serves as the official landing page for Ad-Aware Personal Securi
 **Get the most recent version of Ad-Aware Personal Security today!**
 
 ---
-**Last updated:** 2026-11-10 11:58:09 UTC
+**Last updated:** 2026-11-10 19:24:04 UTC
